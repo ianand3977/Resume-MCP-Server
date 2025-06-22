@@ -9,6 +9,7 @@ from openai import BaseModel
 from pydantic import AnyUrl, Field
 import readabilipy
 from pathlib import Path
+import os
 
 TOKEN = os.environ.get("TOKEN")
 MY_NUMBER = os.environ.get("MY_NUMBER")   # Insert your number {91}{Your number}
