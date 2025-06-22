@@ -1,0 +1,79 @@
+# Anand Ubarhande
+
+**LinkedIn:** [linkedin.com/in/anand3977/](https://linkedin.com/in/anand3977/)
+**Email:** anandgu2002@gmail.com  
+**GitHub:** [github.com/ianand3977](https://github.com/ianand3977)  
+**Mobile:** +91-9421903054
+
+---
+
+## Skills
+
+- **Languages:** C++, JavaScript, C#
+- **Frameworks/Libraries:** HTML, CSS, NodeJS, Express
+- **Databases/Tools:** MySQL, MongoDB, Gen AI
+- **Soft Skills:** Problem-Solving, Team Player, Adaptability
+
+---
+
+## Summer Training
+
+**Geek for Geeks – Data Structures And Algorithms**  
+*July 2023*  
+- Learned how to use Data Structures and Algorithms (DSA) in programming.
+- Built an application using C++ for managing a phone directory.
+- Used DSA principles in C++ to keep the code clean, easy to maintain, and scalable.
+- Gained practical experience in using C++ along with DSA to develop solutions for problems.
+
+---
+
+## Projects
+
+### [WiseTree](https://wisetree.vercel.app/login) *(June 2024)*
+- Developed a scalable online examination system enabling test administrators to efficiently create, manage, and evaluate exams for registered users.
+- Enhanced system throughput by 100% and reduced student test evaluation time by 40% through optimized backend processing.
+- Implemented secure authentication with JSON Web Tokens (JWT), ensuring data integrity and preventing unauthorized access.
+- Built a robust backend using Node.js, Express, and MongoDB, integrating Nodemailer for automated test score notifications.
+- Deployed backend on Render and frontend on Vercel, ensuring a highly responsive and scalable user experience with minimal downtime.
+- Leveraged Git for version control, maintaining a structured and collaborative development workflow.
+- **Tech:** MERN Stack
+
+### [HTTPPaw](https://http-paw.vercel.app/) *(Jan 2024)*
+- Developed a MERN stack web application enabling user registration, email verification, and secure authentication.
+- Implemented CRUD functionalities, allowing users to manage lists efficiently.
+- Designed a dashboard to fetch and display dog images based on HTTP status codes, with features like searching, viewing, saving, and editing lists.
+- Secured authentication using JSON Web Tokens (JWT), ensuring safe user sessions.
+- Integrated Google OAuth login and email verification, enhancing user accessibility.
+- **Tech:** MERN Stack, JWT, Git, Vercel, Render, Nodemailer, OAuth login
+
+---
+
+## Certificates
+
+- Developing Front-End Apps with React | IBM | Coursera *(March 2024)*
+- Data Structures And Algorithms Self-Paced (C++) by GFG *(July 2023)*
+- Tech-A-Thon | iNeuron *(Sep 2022)*
+
+---
+
+## Achievements
+
+- Secured First Position in Verbal Ability Quiz contest *(Feb 2023)*
+- Played XX National level Navodaya Vidyalaya Archery Meet *(2017-18)*
+
+---
+
+## Education
+
+**Lovely Professional University**, Punjab, India  
+Bachelor of Technology - Computer Science and Engineering; CGPA: 7.54 *(Since August 2021)*
+
+**Dnyandevrao Bapu Dandge High School**, Dhad, Buldhana  
+Intermediate; Percentage: 78.8% *(April 2018 - March 2020)*
+
+**Jawahar Navodaya Vidyalaya**, Kannad, Aurangabad  
+Matriculation; Percentage: 78.08% *(April 2016 - March 2018)*
+
+---
+
+**Portfolio:** [portfolio-anand.vercel.app](https://portfolio-anand.vercel.app/)
